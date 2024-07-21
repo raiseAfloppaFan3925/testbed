@@ -1,5 +1,9 @@
 {
-    "major" : "0",
-    "minor" : "1",
-    "patch" : "0"
+    "version" : {
+        "major" : "0",
+        "minor" : "1",
+        "patch" : "0",
+        "beta" : null,
+        "dev" : 2
+    },
 }
